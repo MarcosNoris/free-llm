@@ -4,3 +4,4 @@ venv
 .aider*
 *.json
 *.pyc
+!src/openrouter_models.json

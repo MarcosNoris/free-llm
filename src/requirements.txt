@@ -1,5 +1,1 @@
-requests
-python-dotenv
-google-cloud-quotas
-mistralai
-beautifulsoup4
+# README generation uses only the Python standard library.
