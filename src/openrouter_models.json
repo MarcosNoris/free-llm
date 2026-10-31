@@ -1,6 +1,6 @@
 {
   "source": "https://openrouter.ai/api/v1/models",
-  "retrieved_at": "2026-10-18T13:51:38+00:00",
+  "retrieved_at": "2026-10-31T04:14:09+00:00",
   "models": [
     {
       "id": "cohere/north-mini-code:free",
@@ -27,10 +27,6 @@
       "name": "NVIDIA: Nemotron 3 Nano Omni (free)"
     },
     {
-      "id": "nvidia/nemotron-3-super-120b-a12b:free",
-      "name": "NVIDIA: Nemotron 3 Super (free)"
-    },
-    {
       "id": "nvidia/nemotron-3-ultra-550b-a55b:free",
       "name": "NVIDIA: Nemotron 3 Ultra (free)"
     },
@@ -53,6 +49,10 @@
     {
       "id": "poolside/laguna-xs-2.1:free",
       "name": "Poolside: Laguna XS 2.1 (free)"
+    },
+    {
+      "id": "recursive/flint-v1.0:free",
+      "name": "Recursive: Flint (free)"
     },
     {
       "id": "thinkingmachines/inkling:free",
