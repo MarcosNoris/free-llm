@@ -93,7 +93,7 @@ Recurring quotas or selected models with no token charge. Availability, rate lim
 <details>
 <summary>OpenRouter free model snapshot</summary>
 
-Metadata retrieved at **2026-10-18T13:51:38+00:00**. This is a catalog snapshot, not an inference availability test.
+Metadata retrieved at **2026-10-31T04:14:09+00:00**. This is a catalog snapshot, not an inference availability test.
 
 - [Cohere: North Mini Code (free)](https://openrouter.ai/cohere/north-mini-code:free)
 - [Dots Studio: Dots3-Note Preview (free)](https://openrouter.ai/dots-studio/dots-3-note-preview:free)
@@ -101,13 +101,13 @@ Metadata retrieved at **2026-10-18T13:51:38+00:00**. This is a catalog snapshot,
 - [Google: Gemma 4 31B (free)](https://openrouter.ai/google/gemma-4-31b-it:free)
 - [LiquidAI: LFM2.5-2.6B (free)](https://openrouter.ai/liquid/lfm-2.5-2.6b:free)
 - [NVIDIA: Nemotron 3 Nano Omni (free)](https://openrouter.ai/nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free)
-- [NVIDIA: Nemotron 3 Super (free)](https://openrouter.ai/nvidia/nemotron-3-super-120b-a12b:free)
 - [NVIDIA: Nemotron 3 Ultra (free)](https://openrouter.ai/nvidia/nemotron-3-ultra-550b-a55b:free)
 - [NVIDIA: Nemotron 3.5 Content Safety (free)](https://openrouter.ai/nvidia/nemotron-3.5-content-safety:free)
 - [NVIDIA: Nemotron 3.5 Lightning (free)](https://openrouter.ai/nvidia/nemotron-3.5-lightning:free)
 - [NVIDIA: Nemotron 3.5 Super VL (free)](https://openrouter.ai/nvidia/nemotron-3.5-super-vl:free)
 - [Poolside: Laguna S 2.1 (free)](https://openrouter.ai/poolside/laguna-s-2.1:free)
 - [Poolside: Laguna XS 2.1 (free)](https://openrouter.ai/poolside/laguna-xs-2.1:free)
+- [Recursive: Flint (free)](https://openrouter.ai/recursive/flint-v1.0:free)
 - [Thinking Machines: Inkling (free)](https://openrouter.ai/thinkingmachines/inkling:free)
 - [Thinking Machines: Inkling Small (free)](https://openrouter.ai/thinkingmachines/inkling-small:free)
 - [XingChen: Xing4.0 29B A4B (free)](https://openrouter.ai/xingchen-agi/xing4.0-29b-a4b:free)
